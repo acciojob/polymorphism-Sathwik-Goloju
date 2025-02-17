@@ -12,6 +12,7 @@ public class Main {
         System.out.println( p.product(1,2));
         System.out.println(p.product(1,2,3));
         System.out.println(p.product(1.0,2.0));
+
     }
 
     public static class Product {
